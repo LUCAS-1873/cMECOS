@@ -1,6 +1,6 @@
-============================================================   
+
                        cMECOS Pipeline    
-============================================================   
+
 
 A shell-script pipeline for processing stLFR / MGISEQ metagenomic sequencing
 data, from raw reads to quality-assessed MAGs (metagenome-assembled genomes).
